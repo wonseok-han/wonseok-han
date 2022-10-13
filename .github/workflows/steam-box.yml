@@ -3,7 +3,7 @@ name: Update steam playtime
 on:
   schedule:
     - cron: "10 * * * *"
-
+  workflow_dispatch:
 jobs:
   build:
     name: Update-steam-playtime
