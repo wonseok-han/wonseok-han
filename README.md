@@ -6,7 +6,7 @@
     "name": "wonseok-han",
     "email": "oshan1112@gmail.com",
     "affiliated": "DOUL INFORMATION TECHNOLOGY CO.LTD",
-    "positions": ["Frontend", "Web-FullStack"],
+    "positions": ["Frontend", "Web-Develop"],
     "skills": ["Javascript", "Typescript", "React", "Python", "Django", "SQL", "Docker", "Git"]
 }
 ```
