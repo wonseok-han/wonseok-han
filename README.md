@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wonseok-han
 
-https://github-readme-stats.vercel.app/api?username={"wonseok-han"}
+https://github-readme-stats.vercel.app/api?username=wonseok-han
 
 <!---
 wonseok-han/wonseok-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
