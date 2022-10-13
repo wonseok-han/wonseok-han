@@ -72,5 +72,14 @@ Vue                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- steam-box start -->
+🎮 Steam playtime leaderboard
+```text
+🍳 PUBG: BATTLEGROUNDS              🕘 408 hrs 44 mins
+🎮 The Witcher 3: Wild Hunt         🕘 184 hrs 44 mins
+🎮 ELDEN RING                       🕘 153 hrs 59 mins
+🎮 Mount & Blade II: Bannerlord     🕘 129 hrs 12 mins
+🦾 Cyberpunk 2077                   🕘 74 hrs 0 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
  
