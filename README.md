@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wonseok-han
 
-# 🤷‍♂️ about me
+## 🤷‍♂️ about me
 ```json
 {
     "name": "wonseok-han",
@@ -16,7 +16,7 @@ wonseok-han/wonseok-han is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 🤔 my activities
+## 🤔 my activities
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonseok-han&theme=dracula)
 
