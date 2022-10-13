@@ -15,7 +15,7 @@ jobs:
           LOCALE: "ko"
 #           COMMIT_BY_ME: "True"
 #           COMMIT_MESSAGE: "True"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_UPDATED_DATE: "False"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
 #           SHOW_COMMIT: "True"
           SHOW_LINES_OF_CODE: "True"
