@@ -1,11 +1,24 @@
 - 👋 Hi, I’m @wonseok-han
 
-![image](https://github-readme-stats.vercel.app/api?username=wonseok-han&theme=dracula)
+# 🤷‍♂️ about me
+```json
+{
+    "name": "wonseok-han",
+    "email": "oshan1112@gmail.com",
+    "affiliated": "DOUL INFORMATION TECHNOLOGY CO.LTD",
+    "positions": ["Frontend", "Web-FullStack"],
+    "skills": ["Javascript", "Typescript", "React", "Python", "Django", "SQL", "Docker", "Git"]
+}
+```
 
 <!---
 wonseok-han/wonseok-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# 🤔 my activities
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonseok-han&theme=dracula)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2050%20mins-blue)
