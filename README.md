@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png)
 - 👋 Hi, I’m @wonseok-han
 
 ## 🤷‍♂️ about me
