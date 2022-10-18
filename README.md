@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 - 👋 Hi, I’m @wonseok-han
 
 ## 🤷‍♂️ about me
@@ -10,6 +11,8 @@
     "skills": ["Javascript", "Typescript", "React", "Python", "Django", "SQL", "Docker", "Git"]
 }
 ```
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=wonseok-han&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=wonseok-han%27s%20GitHub%20Stats)
 
 <!---
 wonseok-han/wonseok-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
