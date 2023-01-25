@@ -80,7 +80,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 408 hrs 44 mins
 🎮 The Witcher 3: Wild Hunt         🕘 184 hrs 44 mins
-🎮 Mount & Blade II: Bannerlord     🕘 155 hrs 39 mins
+🎮 Mount & Blade II: Bannerlord     🕘 156 hrs 39 mins
 🎮 ELDEN RING                       🕘 153 hrs 59 mins
 🦾 Cyberpunk 2077                   🕘 74 hrs 0 mins
 ```
