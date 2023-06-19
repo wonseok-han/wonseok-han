@@ -81,7 +81,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 🎮 Steam playtime leaderboard
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 408 hrs 44 mins
-🎮 The Witcher 3: Wild Hunt         🕘 184 hrs 44 mins
+🎮 The Witcher 3: Wild Hunt         🕘 185 hrs 16 mins
 🎮 Mount & Blade II: Bannerlord     🕘 158 hrs 48 mins
 🎮 ELDEN RING                       🕘 153 hrs 59 mins
 🦾 Cyberpunk 2077                   🕘 74 hrs 0 mins
