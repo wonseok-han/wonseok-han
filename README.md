@@ -83,7 +83,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 🍳 PUBG: BATTLEGROUNDS              🕘 408 hrs 44 mins
 🎮 The Witcher 3: Wild Hunt         🕘 186 hrs 2 mins
 🎮 Mount & Blade II: Bannerlord     🕘 158 hrs 48 mins
-🦾 Cyberpunk 2077                   🕘 155 hrs 13 mins
+🦾 Cyberpunk 2077                   🕘 156 hrs 44 mins
 🎮 ELDEN RING                       🕘 153 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
