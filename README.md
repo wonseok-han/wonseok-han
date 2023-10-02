@@ -82,7 +82,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 408 hrs 44 mins
 🎮 The Witcher 3: Wild Hunt         🕘 186 hrs 2 mins
-🦾 Cyberpunk 2077                   🕘 160 hrs 11 mins
+🦾 Cyberpunk 2077                   🕘 161 hrs 11 mins
 🎮 Mount & Blade II: Bannerlord     🕘 158 hrs 48 mins
 🎮 ELDEN RING                       🕘 153 hrs 59 mins
 ```
