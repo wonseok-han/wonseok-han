@@ -84,7 +84,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 🎮 The Witcher 3: Wild Hunt         🕘 186 hrs 2 mins
 🦾 Cyberpunk 2077                   🕘 162 hrs 27 mins
 🎮 Mount & Blade II: Bannerlord     🕘 158 hrs 48 mins
-🎮 ELDEN RING                       🕘 156 hrs 1 mins
+🎮 ELDEN RING                       🕘 156 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
