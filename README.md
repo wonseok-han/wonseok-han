@@ -20,7 +20,7 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C825%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C831%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.69%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -40,19 +40,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               17 hrs 5 mins       ██████████████░░░░░░░░░░░   56.39 % 
-Markdown                 3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-JSON                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Other                    1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+TypeScript               18 hrs              ██████████████░░░░░░░░░░░   57.86 % 
+Markdown                 3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Bash                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JSON                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 에디터들: 
-Cursor                   29 hrs 45 mins      █████████████████████████   98.18 % 
-VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Cursor                   30 hrs 34 mins      █████████████████████████   98.23 % 
+VS Code                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 운영 체제들: 
-Mac                      26 hrs 13 mins      ██████████████████████░░░   86.55 % 
-WSL                      4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Mac                      27 hrs 2 mins       ██████████████████████░░░   86.90 % 
+WSL                      4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
