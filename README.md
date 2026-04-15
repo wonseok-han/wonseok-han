@@ -20,17 +20,17 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C860%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C865%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.73%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.72%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     893 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-🌆 낮　                     2411 commits        ████████████░░░░░░░░░░░░░   49.75 % 
-🌃 저녁                     960 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-🌙 밤　                     582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+🌞 아침                     884 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+🌆 낮　                     2402 commits        ████████████░░░░░░░░░░░░░   49.85 % 
+🌃 저녁                     950 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌙 밤　                     582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 
 
@@ -40,18 +40,18 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-Markdown                 6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-Other                    2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-MDX                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Markdown                 8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
+TypeScript               4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Other                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+MDX                      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Text                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 에디터들: 
-Cursor                   25 hrs 9 mins       █████████████████████████   99.25 % 
-Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Cursor                   25 hrs 6 mins       █████████████████████████   99.11 % 
+Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 운영 체제들: 
-Mac                      25 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
