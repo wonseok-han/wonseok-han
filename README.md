@@ -20,39 +20,7 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C871%20hrs%2016%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.77%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     917 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-🌆 낮　                     2466 commits        ████████████░░░░░░░░░░░░░   49.99 % 
-🌃 저녁                     968 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-🌙 밤　                     582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Markdown                 9 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.03 % 
-Other                    4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Text                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-MDX                      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-
-🔥 에디터들: 
-Cursor                   27 hrs 44 mins      █████████████████████████   99.19 % 
-Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
-💻 운영 체제들: 
-Mac                      27 hrs 58 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.79%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 주로 TypeScript 언어를 사용해요.** 
 
