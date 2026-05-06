@@ -20,18 +20,48 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C935%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C941%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.90%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.96%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+**저는 아침형 인간이에요. 🐤** 
+
+```text
+🌞 아침                     957 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+🌆 낮　                     2774 commits        █████████████░░░░░░░░░░░░   52.64 % 
+🌃 저녁                     970 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+🌙 밤　                     569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+TypeScript               4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Other                    2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Markdown                 2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Java                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+
+🔥 에디터들: 
+Cursor                   7 hrs 9 mins        ██████████████░░░░░░░░░░░   54.43 % 
+Unknown Editor           5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.57 % 
+
+💻 운영 체제들: 
+Mac                      13 hrs 8 mins       █████████████████████████   100.00 % 
+```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
 
 ```text
-TypeScript               17 repos            ██████████████░░░░░░░░░░░   54.84 % 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               18 repos            ██████████████░░░░░░░░░░░   56.25 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
