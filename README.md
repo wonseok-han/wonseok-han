@@ -20,7 +20,7 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C041%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C048%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.24%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -40,19 +40,20 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
-JSON                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-YAML                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Markdown                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+TypeScript               7 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
+Markdown                 3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+JSON                     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Java                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 에디터들: 
-VS Code                  8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
-Cursor                   7 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
-Unknown Editor           5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Cursor                   9 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.16 % 
+VS Code                  6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Unknown Editor           2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Claude Code              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 💻 운영 체제들: 
-Mac                      21 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
