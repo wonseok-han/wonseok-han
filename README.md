@@ -20,7 +20,7 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C183%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C188%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.36%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -40,18 +40,18 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               5 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.23 % 
-Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-JSON                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Text                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+TypeScript               5 hrs 1 min         ██████████░░░░░░░░░░░░░░░   38.01 % 
+Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+JSON                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 에디터들: 
-Cursor                   7 hrs 56 mins       ████████████████░░░░░░░░░   65.68 % 
-Claude Code              4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.32 % 
+Cursor                   7 hrs 25 mins       ██████████████░░░░░░░░░░░   56.16 % 
+Claude Code              5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
 
 💻 운영 체제들: 
-Mac                      12 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
