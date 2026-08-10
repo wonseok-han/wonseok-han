@@ -20,9 +20,9 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C123%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C128%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-467%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.42%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -42,45 +42,46 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 16 hrs 52 mins      ███████████░░░░░░░░░░░░░░   44.49 % 
-TypeScript               13 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   36.19 % 
-JavaScript               2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Markdown                 15 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.85 % 
+TypeScript               13 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
+JavaScript               1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Text                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 에디터들: 
-Cursor                   27 hrs 25 mins      ██████████████████░░░░░░░   72.26 % 
-Claude Code              10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Cursor                   23 hrs 18 mins      ████████████████░░░░░░░░░   65.10 % 
+Claude Code              10 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Codex Vscode             1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Agent                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 운영 체제들: 
-Mac                      37 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 49 mins (97.04%)
+⏱ AI Coding Time: 34 hrs 45 mins (97.12%)
 
-✍️ 51,282 lines written by AI, 301 lines written by hand (99.42% AI-written)
+✍️ 43,687 lines written by AI, 155 lines written by hand (99.65% AI-written)
 
-🔤 2,220,322,820 Input Tokens, 7,434,196 Output Tokens
+🔤 1,075,059,171 Input Tokens, 4,399,792 Output Tokens
 
-💵 $10968.13 Estimated AI Cost This Week
+💵 $5556.21 Estimated AI Cost This Week
 
-🧠 191 AI Sessions, 1040 AI Prompts
+🧠 141 AI Sessions, 968 AI Prompts
 
-GPT                      37,676 lines        █████████████████░░░░░░░░   68.54 % 
-Fable                    9,347 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Opus                     7,910 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sonnet                   40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+GPT                      26,427 lines        ██████████████░░░░░░░░░░░   56.83 % 
+Opus                     7,551 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Fable                    6,900 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Sonnet                   5,626 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.42% of written lines came from AI
-📚 Verbose Prompter — average 9,182 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.63% of changed lines were hand-edited
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 9,368 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
