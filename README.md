@@ -24,15 +24,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-467%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.42%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.45%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1159 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-🌆 낮　                     3308 commits        ██████████████░░░░░░░░░░░   54.73 % 
-🌃 저녁                     1007 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-🌙 밤　                     570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+🌞 아침                     1171 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌆 낮　                     3399 commits        ██████████████░░░░░░░░░░░   55.00 % 
+🌃 저녁                     1036 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+🌙 밤　                     574 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 ```
 
 
@@ -87,11 +87,11 @@ Composer                 0 lines             ░░░░░░░░░░░�
 **저는 주로 TypeScript 언어를 사용해요.** 
 
 ```text
-TypeScript               21 repos            ███████████████░░░░░░░░░░   58.33 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               22 repos            ███████████████░░░░░░░░░░   59.46 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
