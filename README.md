@@ -106,7 +106,7 @@ Java                     1 repo              █░░░░░░░░░░�
 🎮 Steam playtime leaderboard
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 408 hrs 44 mins
-🎮 The Witcher 3: Wild Hunt         🕘 186 hrs 2 mins
+🎮 The Witcher 3: Wild Hunt - Complete Edition 🕘 186 hrs 2 mins
 🦾 Cyberpunk 2077                   🕘 162 hrs 27 mins
 🎮 ELDEN RING                       🕘 159 hrs 7 mins
 🎮 Mount & Blade II: Bannerlord     🕘 158 hrs 48 mins
