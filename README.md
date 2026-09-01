@@ -20,9 +20,9 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C228%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C238%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-567%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-577%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.67%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -42,45 +42,45 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 10 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   30.40 % 
-TypeScript               9 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-Rust                     6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Text                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JSON                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+TypeScript               9 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Rust                     7 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Markdown                 7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Text                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 에디터들: 
-Cursor                   19 hrs 54 mins      ███████████████░░░░░░░░░░   58.46 % 
-Claude Code              8 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Codex Vscode             5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Agent                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Cursor                   18 hrs 44 mins      ███████████████░░░░░░░░░░   58.22 % 
+Claude Code              8 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Codex Vscode             4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Agent                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 운영 체제들: 
-Mac                      34 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      32 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 46 mins (99.16%)
+⏱ AI Coding Time: 31 hrs 59 mins (99.39%)
 
-✍️ 92,791 lines written by AI, 199 lines written by hand (99.79% AI-written)
+✍️ 80,656 lines written by AI, 75 lines written by hand (99.91% AI-written)
 
-🔤 80,171,962 Input Tokens, 10,244,046 Output Tokens
+🔤 58,094,741 Input Tokens, 6,857,846 Output Tokens
 
-💵 $1734.25 Estimated AI Cost This Week
+💵 $1339.00 Estimated AI Cost This Week
 
-🧠 293 AI Sessions, 755 AI Prompts
+🧠 255 AI Sessions, 609 AI Prompts
 
-GPT                      86,207 lines        ███████████████████████░░   91.04 % 
-Opus                     4,426 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Fable                    4,056 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+GPT                      78,421 lines        ████████████████████████░   94.59 % 
+Fable                    4,185 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Opus                     304 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 13,736 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 13,645 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
