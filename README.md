@@ -20,9 +20,9 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C238%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C245%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-577%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-584%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.67%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -42,45 +42,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               9 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Rust                     7 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-Markdown                 7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Text                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+TypeScript               9 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Markdown                 8 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Rust                     7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+JSON                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Text                     2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🔥 에디터들: 
-Cursor                   18 hrs 44 mins      ███████████████░░░░░░░░░░   58.22 % 
-Claude Code              8 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-Codex Vscode             4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Agent                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Cursor                   15 hrs 54 mins      ███████████░░░░░░░░░░░░░░   45.64 % 
+Claude Code              10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Codex Vscode             5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+VS Code                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Agent                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 운영 체제들: 
-Mac                      32 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 59 mins (99.39%)
+⏱ AI Coding Time: 34 hrs 36 mins (99.26%)
 
-✍️ 80,656 lines written by AI, 75 lines written by hand (99.91% AI-written)
+✍️ 79,105 lines written by AI, 84 lines written by hand (99.89% AI-written)
 
-🔤 58,094,741 Input Tokens, 6,857,846 Output Tokens
+🔤 63,029,676 Input Tokens, 7,239,208 Output Tokens
 
-💵 $1339.00 Estimated AI Cost This Week
+💵 $1408.66 Estimated AI Cost This Week
 
-🧠 255 AI Sessions, 609 AI Prompts
+🧠 245 AI Sessions, 643 AI Prompts
 
-GPT                      78,421 lines        ████████████████████████░   94.59 % 
-Fable                    4,185 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Opus                     304 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+GPT                      71,834 lines        ██████████████████████░░░   88.38 % 
+Fable                    9,445 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 13,645 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 15,752 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
