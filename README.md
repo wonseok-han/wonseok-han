@@ -42,47 +42,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-Other                    2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Rust                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-TypeScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Markdown                 3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.33 % 
+Other                    1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Rust                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+TypeScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🔥 에디터들: 
-Codex Vscode             6 hrs 57 mins       ███████████████░░░░░░░░░░   58.33 % 
-Claude Code              1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-VS Code                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Cursor                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Agent                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Codex Vscode             6 hrs 33 mins       ██████████████░░░░░░░░░░░   57.49 % 
+VS Code                  2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Claude Code              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Cursor                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Agent                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 운영 체제들: 
-Mac                      11 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 16 mins (94.42%)
+⏱ AI Coding Time: 10 hrs 51 mins (95.1%)
 
-✍️ 8,426 lines written by AI, 19 lines written by hand (99.78% AI-written)
+✍️ 9,192 lines written by AI, 26 lines written by hand (99.72% AI-written)
 
-🔤 13,763,715 Input Tokens, 916,927 Output Tokens
+🔤 14,795,489 Input Tokens, 964,353 Output Tokens
 
-💵 $336.46 Estimated AI Cost This Week
+💵 $362.00 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 295 AI Prompts
+🧠 31 AI Sessions, 276 AI Prompts
 
-GPT                      6,276 lines         ██████████████████░░░░░░░   72.99 % 
-Fable                    1,572 lines         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Opus                     750 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+GPT                      7,133 lines         ███████████████████░░░░░░   76.55 % 
+Fable                    1,453 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Opus                     731 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 Codex-Vscode             1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📚 Verbose Prompter — average 21,422 characters per prompt
+🤖 AI-Driven — 99.72% of written lines came from AI
+📚 Verbose Prompter — average 26,186 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.08% of changed lines were hand-edited
+🚀 High AI Trust — 1.07% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
