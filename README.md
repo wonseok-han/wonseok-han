@@ -42,47 +42,44 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-Markdown                 1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.94 % 
-JSON                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Markdown                 51 mins             █████████████░░░░░░░░░░░░   53.39 % 
+JSON                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 에디터들: 
-Claude Code              1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   36.13 % 
-Codex Vscode             1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Cursor                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Agent                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Claude Code              53 mins             ██████████████░░░░░░░░░░░   55.66 % 
+Cursor                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Agent                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (90.93%)
+⏱ AI Coding Time: 1 hr 16 mins (80.32%)
 
-✍️ 2,351 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 1,461 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,249,018 Input Tokens, 320,405 Output Tokens
+🔤 2,321,640 Input Tokens, 156,958 Output Tokens
 
-💵 $93.28 Estimated AI Cost This Week
+💵 $33.03 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 72 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-Fable                    1,453 lines         ███████████████░░░░░░░░░░   59.50 % 
-Opus                     731 lines           ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-GPT                      258 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Fable                    1,453 lines         ████████████████████████░   94.60 % 
+Opus                     83 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 9,120 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 963 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
