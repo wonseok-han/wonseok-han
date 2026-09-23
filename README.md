@@ -42,43 +42,37 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 51 mins             █████████████░░░░░░░░░░░░   53.39 % 
-JSON                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 16 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-Claude Code              53 mins             ██████████████░░░░░░░░░░░   55.66 % 
-Cursor                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Agent                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Claude Code              15 mins             ███████████████████████░░   93.72 % 
+VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (80.32%)
+⏱ AI Coding Time: 16 mins (100.0%)
 
-✍️ 1,461 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 483 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,321,640 Input Tokens, 156,958 Output Tokens
+🔤 649,431 Input Tokens, 51,847 Output Tokens
 
-💵 $33.03 Estimated AI Cost This Week
+💵 $9.67 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-Fable                    1,453 lines         ████████████████████████░   94.60 % 
-Opus                     83 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Fable                    400 lines           █████████████████████░░░░   82.82 % 
+Opus                     83 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 963 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 816 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
