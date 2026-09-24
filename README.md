@@ -42,38 +42,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 16 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              15 mins             ███████████████████████░░   93.72 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (100.0%)
-
-✍️ 483 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 649,431 Input Tokens, 51,847 Output Tokens
-
-💵 $9.67 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-Fable                    400 lines           █████████████████████░░░░   82.82 % 
-Opus                     83 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 816 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
