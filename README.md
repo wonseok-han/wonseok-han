@@ -20,9 +20,9 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C293%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C299%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-639%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-645%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.69%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -42,19 +42,44 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Markdown                 2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.65 % 
+Rust                     2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.14 % 
+Text                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Codex Vscode             3 hrs 48 mins       ████████████████░░░░░░░░░   63.24 % 
+Cursor                   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Claude Code              36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs (99.66%)
+
+✍️ 5,829 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,932,836 Input Tokens, 597,294 Output Tokens
+
+💵 $224.53 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 121 AI Prompts
+
+GPT                      5,042 lines         █████████████████████░░░░   85.31 % 
+Opus                     868 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 12,422 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
