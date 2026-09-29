@@ -20,19 +20,19 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C299%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C308%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-645%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-654%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.69%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-2.72%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1277 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-🌆 낮　                     3744 commits        ██████████████░░░░░░░░░░░   56.01 % 
-🌃 저녁                     1089 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-🌙 밤　                     574 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+🌞 아침                     1284 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+🌆 낮　                     3849 commits        ██████████████░░░░░░░░░░░   56.62 % 
+🌃 저녁                     1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+🌙 밤　                     574 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 ```
 
 
@@ -42,44 +42,44 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.65 % 
-Rust                     2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.14 % 
-Text                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Markdown                 5 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.10 % 
+Rust                     4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
+TypeScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Text                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 에디터들: 
-Codex Vscode             3 hrs 48 mins       ████████████████░░░░░░░░░   63.24 % 
-Cursor                   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Claude Code              36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Codex Vscode             8 hrs 51 mins       ███████████████░░░░░░░░░░   59.55 % 
+VS Code                  2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Cursor                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Claude Code              1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (99.66%)
+⏱ AI Coding Time: 14 hrs 33 mins (97.85%)
 
-✍️ 5,829 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14,722 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 5,932,836 Input Tokens, 597,294 Output Tokens
+🔤 12,132,765 Input Tokens, 1,509,608 Output Tokens
 
-💵 $224.53 Estimated AI Cost This Week
+💵 $576.84 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 121 AI Prompts
+🧠 46 AI Sessions, 454 AI Prompts
 
-GPT                      5,042 lines         █████████████████████░░░░   85.31 % 
-Opus                     868 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+GPT                      10,944 lines        ██████████████████░░░░░░░   73.52 % 
+Opus                     3,941 lines         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,422 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 12,992 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
