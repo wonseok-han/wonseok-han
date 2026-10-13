@@ -20,9 +20,9 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C329%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C336%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-674%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-681%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.27%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -42,45 +42,46 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Rust                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Text                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Markdown                 5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+Text                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Rust                     2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+JavaScript               1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+TypeScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 🔥 에디터들: 
-Codex Vscode             3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
-Cursor                   3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
-Claude Code              1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Codex Vscode             10 hrs 25 mins      ████████████████░░░░░░░░░   64.85 % 
+Cursor                   3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Claude Code              1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 운영 체제들: 
-Mac                      8 hrs 18 mins       ████████████████████████░   95.90 % 
-WSL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Mac                      15 hrs 43 mins      ████████████████████████░   97.79 % 
+WSL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 46 mins (89.73%)
+⏱ AI Coding Time: 15 hrs 29 mins (96.38%)
 
-✍️ 4,868 lines written by AI, 12 lines written by hand (99.75% AI-written)
+✍️ 13,342 lines written by AI, 10 lines written by hand (99.93% AI-written)
 
-🔤 22,938,100 Input Tokens, 3,464,062 Output Tokens
+🔤 47,803,150 Input Tokens, 7,274,335 Output Tokens
 
-💵 $1591.02 Estimated AI Cost This Week
+💵 $5293.46 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 243 AI Prompts
+🧠 39 AI Sessions, 317 AI Prompts
 
-GPT                      3,381 lines         █████████████████░░░░░░░░   69.04 % 
-Opus                     1,516 lines         ████████░░░░░░░░░░░░░░░░░   30.96 % 
+GPT                      9,852 lines         ██████████████████░░░░░░░   73.36 % 
+Opus                     3,577 lines         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📚 Verbose Prompter — average 13,405 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 13,532 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.33% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
