@@ -64,11 +64,11 @@ Mac                      25 hrs              ███████████�
 
 ✍️ 16,868 lines written by AI, 13 lines written by hand (99.92% AI-written)
 
-🔤 27,467,378 Input Tokens, 5,437,510 Output Tokens
+🔤 27,467,278 Input Tokens, 5,436,720 Output Tokens
 
-💵 $732.52 Estimated AI Cost This Week
+💵 $732.44 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 270 AI Prompts
+🧠 18 AI Sessions, 270 AI Prompts
 
 Opus                     14,604 lines        ██████████████████████░░░   86.10 % 
 GPT                      2,357 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
@@ -76,7 +76,7 @@ GPT                      2,357 lines         ███░░░░░░░░�
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
 📚 Verbose Prompter — average 2,191 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
