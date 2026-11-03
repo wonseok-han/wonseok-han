@@ -20,19 +20,19 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C398%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C402%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-750%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-758%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.90%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.69%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     2033 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-🌆 낮　                     5291 commits        █████████████░░░░░░░░░░░░   51.91 % 
-🌃 저녁                     1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-🌙 밤　                     1483 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+🌞 아침                     2783 commits        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+🌆 낮　                     6748 commits        █████████████░░░░░░░░░░░░   52.83 % 
+🌃 저녁                     1734 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+🌙 밤　                     1509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 
 
