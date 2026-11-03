@@ -20,65 +20,11 @@
 ## 📃 my waka-time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C402%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C405%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-758%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-762%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.69%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     2783 commits        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-🌆 낮　                     6748 commits        █████████████░░░░░░░░░░░░   52.83 % 
-🌃 저녁                     1734 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌙 밤　                     1509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Markdown                 8 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
-TypeScript               4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Other                    4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Python                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-
-🔥 에디터들: 
-Codex Vscode             12 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.64 % 
-Claude Code              8 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.66 % 
-VS Code                  4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-
-💻 운영 체제들: 
-Mac                      25 hrs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 24 hrs 48 mins (99.19%)
-
-✍️ 16,868 lines written by AI, 13 lines written by hand (99.92% AI-written)
-
-🔤 27,467,278 Input Tokens, 5,436,720 Output Tokens
-
-💵 $732.44 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 270 AI Prompts
-
-Opus                     14,604 lines        ██████████████████████░░░   86.10 % 
-GPT                      2,357 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 2,191 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
-```
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.74%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 주로 TypeScript 언어를 사용해요.** 
 
